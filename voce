@@ -123,22 +123,22 @@
 		
 		break;
 		
-		case (x="stop"):
-		z =  "Ricevuto Corobot si arresta";
+		case (x="931"):
+		z =  "Complimenti hai indovinato";
 		document.getElementById("control2").value = "true";
 		document.getElementById("control1").value = "false";
 		document.getElementById("btnOFF").click();
 		break;
 		
-		case (x="Stop"):
-		z =  "Ricevuto Corobot si arresta";
+		case (x="139"):
+		z =  "Complimenti hai indovinato";
 		document.getElementById("control2").value = "true";
 		document.getElementById("control1").value = "false";
 		document.getElementById("btnOFF").click();
 		break;
 			
-		case (x="ferma"):
-		z =  "Ricevuto Corobot si arresta";
+		case (x=""):
+		z =  "Stop";
 		document.getElementById("control2").value = "true";
 		document.getElementById("control1").value = "false";
 		document.getElementById("btnOFF").click();
