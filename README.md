@@ -14,4 +14,4 @@ La successione di Fibonacci (detta anche successione aurea), indicata con Fn o c
 Gli elementi Fn sono anche detti numeri di Fibonacci. I primi termini della successione di Fibonacci, che prende il nome dal matematico pisano del XIII secolo Leonardo Fibonacci, sono: 0 , 1 , 1 , 2 , 3 , 5 , 8 , 13 , 21 , 34 , 55 , 89 , 144 , 233 , … 
 
 
-Puoi risolvere il problema cliccando questo link <a href="cart1/gml.html"> Operatore vocale </a>
+Puoi risolvere il problema cliccando <a href="cart1/gml.html"> qui </a>
