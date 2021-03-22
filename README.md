@@ -10,4 +10,3 @@ Il problema afferma che una bilancia a due piatti deve pesare 13 pesi di peso cr
 
 
 Puoi risolvere il problema cliccando <a href="voce.html" target="_blank"> Audio PVCorobot </a>
-ghvhnb vvfghnm vghjnvnn bhgjcdgbv n
